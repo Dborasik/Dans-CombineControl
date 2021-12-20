@@ -3,6 +3,7 @@ function GM:RefreshHelpMenuContent()
 	self.HelpContent = {
 		{ "Credits",
 			[[CombineControl created by Disseminate.
+			Edits by Dborasik (Dan).
 			
 			Casadis - for all the support and ideas.
 			Kamern - ideas and support.]] },
