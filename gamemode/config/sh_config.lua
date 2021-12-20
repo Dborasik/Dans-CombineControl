@@ -16,7 +16,7 @@ GM.PrivateSteamIDs = {
 
 GM.TestingClosedMessage = "This server is closed for testing!";
 
-GM.AdminsCanSpawnSENTs = false;
+GM.AdminsCanSpawnSENTs = true;
 
 -- Character Creation
 
